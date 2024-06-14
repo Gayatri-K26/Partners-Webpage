@@ -3,7 +3,7 @@
 
 npm install - to install the required library
 
-type npm run dev in the terminal to the run the porgram
+type npm run dev in the terminal to run the program
 
 **High level overview of the application and design:**
 
@@ -33,7 +33,7 @@ Given more time, I would’ve like to restructure the code and implement an MVC 
 
 I also could’ve done some data validations like checking if a given URL is valid, etc.
 
-I would’ve also liked to tackle all the bonus questions - especially trying to save data in a database rather than a file. I have some experience with databased from CS 3200 however, I did not have enough time to play around with that so I used a file instead.
+I would’ve also liked to tackle all the bonus questions - especially trying to save data in a database rather than a file. I have some experience with databases from CS 3200 however, I did not have enough time to play around with that so I used a file instead.
 
 Search is also a very doable task with my design. I am able to modify the partner information and thus extend the same functionality for search.
 
